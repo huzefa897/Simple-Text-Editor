@@ -1,0 +1,15 @@
+C:/Users/Mehul Makwana/Desktop/Master's/32998 .NET Application Development - Spring 2021/A2 - Simple Text Editor/A2 - Simple Text Editor/bin/Debug/A2 - Simple Text Editor.exe.config
+C:/Users/Mehul Makwana/Desktop/Master's/32998 .NET Application Development - Spring 2021/A2 - Simple Text Editor/A2 - Simple Text Editor/bin/Debug/A2 - Simple Text Editor.exe
+C:/Users/Mehul Makwana/Desktop/Master's/32998 .NET Application Development - Spring 2021/A2 - Simple Text Editor/A2 - Simple Text Editor/bin/Debug/A2 - Simple Text Editor.pdb
+C:/Users/Mehul Makwana/Desktop/Master's/32998 .NET Application Development - Spring 2021/A2 - Simple Text Editor/A2 - Simple Text Editor/obj/Debug/A2___Simple_Text_Editor.AboutForm.resources
+C:/Users/Mehul Makwana/Desktop/Master's/32998 .NET Application Development - Spring 2021/A2 - Simple Text Editor/A2 - Simple Text Editor/obj/Debug/A2___Simple_Text_Editor.LoginForm.resources
+C:/Users/Mehul Makwana/Desktop/Master's/32998 .NET Application Development - Spring 2021/A2 - Simple Text Editor/A2 - Simple Text Editor/obj/Debug/A2___Simple_Text_Editor.NewUserForm.resources
+C:/Users/Mehul Makwana/Desktop/Master's/32998 .NET Application Development - Spring 2021/A2 - Simple Text Editor/A2 - Simple Text Editor/obj/Debug/A2___Simple_Text_Editor.Properties.Resources.resources
+C:/Users/Mehul Makwana/Desktop/Master's/32998 .NET Application Development - Spring 2021/A2 - Simple Text Editor/A2 - Simple Text Editor/obj/Debug/A2 - Simple Text Editor.csproj.GenerateResource.cache
+C:/Users/Mehul Makwana/Desktop/Master's/32998 .NET Application Development - Spring 2021/A2 - Simple Text Editor/A2 - Simple Text Editor/obj/Debug/A2 - Simple Text Editor.csproj.CoreCompileInputs.cache
+C:/Users/Mehul Makwana/Desktop/Master's/32998 .NET Application Development - Spring 2021/A2 - Simple Text Editor/A2 - Simple Text Editor/obj/Debug/A2 - Simple Text Editor.exe
+C:/Users/Mehul Makwana/Desktop/Master's/32998 .NET Application Development - Spring 2021/A2 - Simple Text Editor/A2 - Simple Text Editor/obj/Debug/A2 - Simple Text Editor.pdb
+C:/Users/Mehul Makwana/Desktop/Master's/32998 .NET Application Development - Spring 2021/A2 - Simple Text Editor/A2 - Simple Text Editor/obj/Debug/A2 - Simple Text Editor.csproj.AssemblyReference.cache
+C:/Users/Mehul Makwana/Desktop/Master's/32998 .NET Application Development - Spring 2021/A2 - Simple Text Editor/A2 - Simple Text Editor/obj/Debug/A2___Simple_Text_Editor.SimpleTextEditorForm.resources
+/Users/huzefa/Downloads/A2 - Simple Text Editor/A2 - Simple Text Editor/obj/Debug/A2 - Simple Text Editor.exe
+/Users/huzefa/Downloads/A2 - Simple Text Editor/A2 - Simple Text Editor/obj/Debug/A2 - Simple Text Editor.pdb

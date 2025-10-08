@@ -1,0 +1,13 @@
+Event Handling
+
+• Graphical User Interface’s (GUIs) are event driven
+• All controls have events associated with them.
+• Examples of events would include mouse and keyboard handling. Controls
+being moved and resized. Controls being created and closed.
+• Events are user actions such as key press, clicks, mouse movements, etc.,
+or some occurrence such as system generated notifications.
+• Applications need to respond to events when they occur. For example,
+interrupts. Events are used for inter-process communication.
+• Click in the Properties Window of a Control to create the required event
+handler. The generates handler will be in the form
+private void button1_Click(object sender, EventArgs e)

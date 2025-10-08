@@ -1,0 +1,23 @@
+Common Dialogs boxes:
+
+• Dialog boxes are type of windows, which is used to initiate
+communication or dialog between a computer and its user.
+• A dialog box is most often used to implement a command or to
+respond to a question.
+• Windows.Form is a base class
+• Dialog boxes are of two types, which are given below.
+• Modal dialog box: Temporarily halts the application and the user cannot
+continue until the dialog has been closed/completed
+• Modeless dialog box: Used when the requested information is not essential to
+continue and the dialog can be left open while continuing the work.
+Reference: https://www.c-sharpcorner.com/article/dialog-boxes-in-c-sharp/
+Common Dialogs boxes:
+• Common Dialogs boxes: The dialog boxes which are common to all
+windows applications.
+• Performs common tasks such as open a file, save a file, selecting font
+etc.
+• Steps to use Common Dialog boxes:
+1. Create an instance of the required common dialog box,
+2. Set the properties as required,
+3. Call the ShowDialog() method to invoke it.
+ShowDialog() returns a the enum called DialogResult.
